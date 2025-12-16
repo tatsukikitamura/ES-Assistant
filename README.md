@@ -139,7 +139,7 @@ shuukatsu/
 
 ---
 
-## 🤖 Cursor AIとの連携
+##  Cursor AIとの連携
 
 `.cursor/rules` にES作成ルールが設定されています。
 
@@ -181,5 +181,6 @@ AIは以下を自動で行います：
 
 ## 📜 ライセンス
 
-このフレームワークは自由に使用・改変できます。
+PullRequest,Issueください🙇
+
 

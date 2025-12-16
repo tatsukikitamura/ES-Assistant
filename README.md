@@ -1,5 +1,9 @@
 # 📝 就活ES作成フレームワーク
 
+
+https://github.com/user-attachments/assets/d710568f-5dd8-413d-a4aa-04a61aa3637d
+
+
 Cursor AI と連携して、効率的にES（エントリーシート）を作成するためのフレームワークです。
 
 > ⚠️ **前提条件**: このフレームワークは [Cursor](https://cursor.sh/) エディタの使用を前提としています。Cursor の AI 機能と `.cursor/rules` を活用することで、最大限の効果を発揮します。
